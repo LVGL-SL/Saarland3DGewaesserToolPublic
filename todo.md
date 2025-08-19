@@ -1,0 +1,1 @@
+[ ] prüfer ob ```Set-ExecutionPolicy -ExecutionPolicy RemoteSigned``` ausgefürt werden darf

@@ -1,0 +1,675 @@
+[
+  {
+    "MSTBEM": "Schieferstollen",
+    "PGNP": 344.48,
+    "long": 6.8745601,
+    "lat": 49.5953208,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.536
+
+  },
+  {
+    "MSTBEM": "Geislautern",
+    "PGNP": 184.38,
+    "long": 6.8299689,
+    "lat": 49.2320396,
+    "h1": 210,
+    "h2": 250,
+    "h3": 290,
+    "h4": 330,
+    "quasigeoidheight": 47.927
+
+  },
+  {
+    "MSTBEM": "Lisdorf",
+    "PGNP": 173.5,
+    "long": 6.7646385,
+    "lat": 49.2986881,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 47.905
+
+  },
+  {
+    "MSTBEM": "Gonnesweiler",
+    "PGNP": 372.397,
+    "long": 7.0920232,
+    "lat": 49.5644843,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.654
+
+  },
+  {
+    "MSTBEM": "Nonnweiler IV",
+    "PGNP": 378.373,
+    "long": 6.9725431,
+    "lat": 49.6054541,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.658
+
+  },
+  {
+    "MSTBEM": "Niedaltdorf",
+    "PGNP": 183.38,
+    "long": 6.5927206,
+    "lat": 49.3422647,
+    "h1": 180,
+    "h2": 320,
+    "h3": 360,
+    "h4": 410,
+    "quasigeoidheight": 47.824
+
+  },
+  {
+    "MSTBEM": "Rehlingen",
+    "PGNP": 165.5,
+    "long": 6.6978574,
+    "lat": 49.3705494,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 47.940
+
+  },
+  {
+    "MSTBEM": "Blieskastel",
+    "PGNP": 213.399,
+    "long": 7.2623961,
+    "lat": 49.2365021,
+    "h1": 180,
+    "h2": 270,
+    "h3": 320,
+    "h4": 410,
+    "quasigeoidheight": 48.521
+
+  },
+  {
+    "MSTBEM": "Reinheim",
+    "PGNP": 202,
+    "long": 7.1812587,
+    "lat": 49.1347884,
+    "h1": 350,
+    "h2": 480,
+    "h3": 530,
+    "h4": 640,
+    "quasigeoidheight": 48.440
+
+  },
+  {
+    "MSTBEM": "Überherrn",
+    "PGNP": 195.502,
+    "long": 6.6972493,
+    "lat": 49.249624,
+    "h1": 150,
+    "h2": 180,
+    "h3": 200,
+    "h4": 230,
+    "quasigeoidheight": 47.810
+
+  },
+  {
+    "MSTBEM": "Ihn",
+    "PGNP": 199.32,
+    "long": 6.6047942,
+    "lat": 49.3258463,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 47.822
+
+  },
+  {
+    "MSTBEM": "St. Arnual",
+    "PGNP": 183.25,
+    "long": 7.0226539,
+    "lat": 49.2148568,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.170
+
+  },
+  {
+    "MSTBEM": "Nonnweiler II",
+    "PGNP": 454.861,
+    "long": 7.0017577,
+    "lat": 49.6335186,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.727
+
+  },
+  {
+    "MSTBEM": "Seepegel",
+    "PGNP": 400,
+    "long": 7.0647843,
+    "lat": 49.5648461,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.648
+
+  },
+  {
+    "MSTBEM": "Fremersdorf",
+    "PGNP": 165.5,
+    "long": 6.6484083,
+    "lat": 49.4089257,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 47.953
+
+  },
+  {
+    "MSTBEM": "Weiler",
+    "PGNP": 181.834,
+    "long": 6.5737416,
+    "lat": 49.4602481,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight":47.938
+
+  },
+  {
+    "MSTBEM": "Jägersfreude",
+    "PGNP": 203.534,
+    "long": 7.0063826,
+    "lat": 49.2645541,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.176
+
+  },
+  {
+    "MSTBEM": "Neunkirchen",
+    "PGNP": 237.188,
+    "long": 7.1796827,
+    "lat": 49.3497484,
+    "h1": 250,
+    "h2": 320,
+    "h3": 380,
+    "h4": 470,
+    "quasigeoidheight": 48.432
+
+  },
+  {
+    "MSTBEM": "Fechingen",
+    "PGNP": 197.754,
+    "long": 7.0582164,
+    "lat": 49.2038539,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.229
+
+  },
+  {
+    "MSTBEM": "Seewasserstand",
+    "PGNP": 318.6,
+    "long": 6.7397424,
+    "lat": 49.5189181,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.242
+
+  },
+  {
+    "MSTBEM": "Michelbach",
+    "PGNP": 225.355,
+    "long": 6.8527743,
+    "lat": 49.4619882,
+    "h1": 200,
+    "h2": 240,
+    "h3": 280,
+    "h4": 340,
+    "quasigeoidheight": 48.260
+
+  },
+  {
+    "MSTBEM": "Lebach",
+    "PGNP": 213.199,
+    "long": 6.9082488,
+    "lat": 49.410044,
+    "h1": 220 ,
+    "h2": 260,
+    "h3": 290,
+    "h4": 340,
+    "quasigeoidheight": 48.216
+
+  },
+  {
+    "MSTBEM": "Dagstuhl",
+    "PGNP": 267.832,
+    "long": 6.9001651,
+    "lat": 49.5307553,
+    "h1": 100,
+    "h2": 140,
+    "h3": 165,
+    "h4": 200,
+    "quasigeoidheight": 48.439
+
+  },
+  {
+    "MSTBEM": "Lautzkirchen",
+    "PGNP": 217.446,
+    "long": 7.254631,
+    "lat": 49.249796,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.505
+
+  },
+  {
+    "MSTBEM": "Rappweiler",
+    "PGNP": 329.065,
+    "long": 6.7979371,
+    "lat": 49.541585,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.355
+
+  },
+  {
+    "MSTBEM": "Buttnich",
+    "PGNP": 263.2,
+    "long": 6.8962102,
+    "lat": 49.524492,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.423
+
+  },
+  {
+    "MSTBEM": "Weiskirchen",
+    "PGNP": 392.637,
+    "long": 6.8038046,
+    "lat": 49.560651,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.407
+
+
+  },
+  {
+    "MSTBEM": "Nalbach",
+    "PGNP": 186.392,
+    "long": 6.7877537,
+    "lat": 49.3764275,
+    "h1": 280,
+    "h2": 370,
+    "h3": 410,
+    "h4": 470,
+    "quasigeoidheight": 48.029
+
+  },
+  {
+    "MSTBEM": "SLS-Roden",
+    "PGNP": 179.997,
+    "long": 6.754191,
+    "lat": 49.3303176,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 47.927
+
+  },
+  {
+    "MSTBEM": "Walsheim",
+    "PGNP": 242.726,
+    "long": 7.2352734,
+    "lat": 49.1543742,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.518
+
+  },
+  {
+    "MSTBEM": "Völklingen",
+    "PGNP": 186.903,
+    "long": 6.8706615,
+    "lat": 49.2567372,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 47.992
+
+  },
+  {
+    "MSTBEM": "Alsfassen",
+    "PGNP": 275.211,
+    "long": 7.1627099,
+    "lat": 49.4756244,
+    "h1": 80,
+    "h2": 110,
+    "h3": 125,
+    "h4": 140,
+    "quasigeoidheight": 48.544
+
+  },
+  {
+    "MSTBEM": "Einöd",
+    "PGNP": 216.953,
+    "long": 7.3187854,
+    "lat": 49.2634954,
+    "h1": 350,
+    "h2": 420,
+    "h3": 480,
+    "h4": 520,
+    "quasigeoidheight": 48.586
+
+  },
+  {
+    "MSTBEM": "Wolfersweiler",
+    "PGNP": 369.6,
+    "long": 7.1733308,
+    "lat": 49.5642996,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.686
+
+  },
+  {
+    "MSTBEM": "Beeden",
+    "PGNP": 221.83,
+    "long": 7.3155956,
+    "lat": 49.3005967,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.566
+
+  },
+  {
+    "MSTBEM": "Perl",
+    "PGNP": 138.5,
+    "long": 6.3690186,
+    "lat": 49.4725562,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 47.753
+
+  },
+  {
+    "MSTBEM": "Nunkirchen",
+    "PGNP": 248.62,
+    "long": 6.836437,
+    "lat": 49.4876523,
+    "h1": 100,
+    "h2": 140,
+    "h3": 160,
+    "h4": 175,
+    "quasigeoidheight": 48.289
+
+  },
+  {
+    "MSTBEM": "Sbr.-Schafbrücke",
+    "PGNP": 193.755,
+    "long": 7.0442627,
+    "lat": 49.2241678,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.209
+
+  },
+  {
+    "MSTBEM": "Losheim I",
+    "PGNP": 322.577,
+    "long": 6.7183704,
+    "lat": 49.5222268,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.226
+
+  },
+  {
+    "MSTBEM": "Hangard",
+    "PGNP": 250.453,
+    "long": 7.2117598,
+    "lat": 49.3814272,
+    "h1": 180,
+    "h2": 250,
+    "h3": 280,
+    "h4": 320,
+    "quasigeoidheight": 48.490
+
+  },
+  {
+    "MSTBEM": "Nonnweiler I",
+    "PGNP": 454.844,
+    "long": 6.9874316,
+    "lat": 49.6479569,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.718
+
+  },
+  {
+    "MSTBEM": "Oberleuken",
+    "PGNP": 344.564,
+    "long": 6.4687037,
+    "lat": 49.5084209,
+    "h1": 80,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 47.933
+
+  },
+  {
+    "MSTBEM": "Wadern",
+    "PGNP": 266.926,
+    "long": 6.8939542,
+    "lat": 49.5348406,
+    "h1": 130 ,
+    "h2": 170,
+    "h3": 210,
+    "h4": 270,
+    "quasigeoidheight": 48.438
+
+  },
+  {
+    "MSTBEM": "Hanweiler",
+    "PGNP": 189.78,
+    "long": 7.0656111,
+    "lat": 49.1143331,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.261
+
+  },
+  {
+    "MSTBEM": "Niederlosheim",
+    "PGNP": 269.468,
+    "long": 6.7983607,
+    "lat": 49.5005904,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.269
+
+  },
+  {
+    "MSTBEM": "Eckelhausen",
+    "PGNP": 401.417,
+    "long": 7.0650862,
+    "lat": 49.5749047,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.666
+
+  },
+  {
+    "MSTBEM": "Mettlach",
+    "PGNP": 154.5,
+    "long": 6.5874052,
+    "lat": 49.4919911,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 47.994
+
+  },
+  {
+    "MSTBEM": "Ottweiler",
+    "PGNP": 251.041,
+    "long": 7.1669313,
+    "lat": 49.3994854,
+    "h1": 150,
+    "h2": 190,
+    "h3": 230,
+    "h4": 310,
+    "quasigeoidheight": 48.463
+
+  },
+  {
+    "MSTBEM": "Oberthal",
+    "PGNP": 309.791,
+    "long": 7.0762294,
+    "lat": 49.5075634,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.550
+
+  },
+  {
+    "MSTBEM": "Eppelborn",
+    "PGNP": 224.878,
+    "long": 6.9614707,
+    "lat": 49.4073477,
+    "h1": 230,
+    "h2": 270,
+    "h3": 300,
+    "h4": 360,
+    "quasigeoidheight": 48.278
+
+  },
+  {
+    "MSTBEM": "Nohfelden",
+    "PGNP": 347.899,
+    "long": 7.1430981,
+    "lat": 49.5879711,
+    "h1": 140 ,
+    "h2": 190,
+    "h3": 210,
+    "h4": 250,
+    "quasigeoidheight": 48.698
+
+  },
+  {
+    "MSTBEM": "Urweiler",
+    "PGNP": 273.808,
+    "long": 7.1726337,
+    "lat": 49.4705249,
+    "h1": 100,
+    "h2": 155,
+    "h3": 190,
+    "h4": 240,
+    "quasigeoidheight": 48.547
+
+  },
+  {
+    "MSTBEM": "Merzig",
+    "PGNP": 175.849,
+    "long": 6.6471784,
+    "lat": 49.4463731,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 47.995
+
+  },
+  {
+    "MSTBEM": "Sbr.-Rußhütte",
+    "PGNP": 194.787,
+    "long": 6.9758022,
+    "lat": 49.2605904,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.131
+
+  },
+  {
+    "MSTBEM": "Losheim III",
+    "PGNP": 296.327,
+    "long": 6.74448,
+    "lat": 49.5125847,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.233
+
+  },
+  {
+    "MSTBEM": "Bebelsheim",
+    "PGNP": 235.16,
+    "long": 7.1572792,
+    "lat": 49.1601912,
+    "h1": 0,
+    "h2": 0,
+    "h3": 0,
+    "h4": 0,
+    "quasigeoidheight": 48.405
+
+  }
+]

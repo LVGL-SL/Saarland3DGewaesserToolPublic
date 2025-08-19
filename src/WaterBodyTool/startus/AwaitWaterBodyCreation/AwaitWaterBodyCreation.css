@@ -1,0 +1,18 @@
+.WaterBodyActionButtonGroup{
+    position: absolute;
+    bottom: 20px;
+    left: 0px;
+    right: 0px;
+    background: #fff;
+}
+.WaterBodyActionButtonGroup button{
+    padding: 10px;
+    width: calc(100% - 20px);
+    margin: 10px;
+}
+
+
+
+.waittext{
+    margin: auto;
+}
